@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/torte/torte/"}
 ---
 
+## Torte
+
 [[Torte/Cheesecake belom čokoladom|Cheesecake belom čokoladom]]
 [[Torte/Čoko Moko|Čoko Moko]]
 [[Torte/Čoko torta|Čoko torta]]
