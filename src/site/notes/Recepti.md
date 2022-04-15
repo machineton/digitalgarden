@@ -5,5 +5,5 @@
 # Recepti
 --- 
 
-### [[Torte/Torte|Torte]]
-### [[Brzi kolači/Brzi Kolači|Brzi Kolači]]
+#### [[Torte/Torte|Torte]]
+#### [[Brzi kolači/Brzi Kolači|Brzi Kolači]]
