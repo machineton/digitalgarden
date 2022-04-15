@@ -55,16 +55,3 @@
 - ostaviti da se ohladi da ne bude pregusto ni prerijetko
 - preliti preko dobro ohlađene torte i rasporediti ravnomjerno da se prekrije torta
 
-
-#### Napomene
-
-##### Fil
-~~kada sam izmutio krem sir i čokoladu dobio sam poprilično finu konzistenciju, ali kad sam dodao krem od pavlake postalo je mnogo vazdušastije, što je možda nepotrebno, treba biti gušće da se bolje stegne. još nisam načeo i probao pa vidjećemo. ali pavlaka je kandidat za izbacivanje, možda samo dodavati mlijeka dok ne bude kremasto kako treba.
-takođe bez pavlake možda je bilo malo slađe, pavlaka je barem to izbalansirala. u tom slučaju možda manje šećera, a možda je to okej kad se namaže kora. takođe kad načnem obratiti pažnju.~~
-super je ispala, pavlaka daje finu vazdušastost, sasvim je okej da stavim ovoliko, ali možda sledeći put eksperimenta radi staviti 120g pavlake. Ili da izmutim 150 pa da dodajem pomalo dok ne dobijem željenu konzmistenciju. slatkoća je super to ništa ne mjenjati.
-
-##### Kore
-što se tiče kore, djelovala je super nakon pečenja ali se tokom rezanja pocela raspadati. moguće da sam je trebo ostaviti još da se hladi ali žurio sam.
-
-##### Ganache
-omjer za ganaš treba da bude 1:1 za čokladu i mlijeko, ali meni je ostalo malo pavlake. na kraju je dobro ispalo, jer sam lakše razmazao ganaš po torti, ali vrlo brzo se steglo i morao sam brzo da radim. sledeći put ću staviti 100g pavlake da bude 1:1 pa ćemo vidjeti. 
