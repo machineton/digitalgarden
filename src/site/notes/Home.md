@@ -4,5 +4,4 @@
 
 # Home
 
-[[Torte/Torte|Torte]]
-[[Brzi kolači/Brzi Kolači|Brzi Kolači]]
+### [[Recepti|Recepti]]
