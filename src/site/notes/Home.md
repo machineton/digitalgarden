@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
 ---
 
-Proba
+[[Torte/Torte|Torte]]
+[[Brzi kolači/Brzi Kolači|Brzi Kolači]]
